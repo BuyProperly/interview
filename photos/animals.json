@@ -1,0 +1,262 @@
+[
+  {
+    "Id": 1,
+    "Title": "Baby Antelope",
+    "Description": "An antelope is a member of a number of even-toed ungulate species indigenous to various regions in Africa and Eurasia. A group of antelope is called a herd.",
+    "Family": "Bovidae",
+    "CollectiveNoun": "Herd",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/1_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/1_thumb.jpg"
+    }
+  },
+  {
+    "Id": 2,
+    "Title": "Baby Sheep (Lamb)",
+    "Description": "Sheep (Ovis aries) are quadrupedal, ruminant mammals typically kept as livestock. Numbering a little over one billion, domestic sheep are also the most numerous species of sheep.",
+    "Family": "Bovidae",
+    "CollectiveNoun": "Flock",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/2_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/2_thumb.jpg"
+    }
+  },
+  {
+    "Id": 3,
+    "Title": "Leopard",
+    "Description": "The leopard is one of the five big cats in the genus Panthera. It is similar in appearance to the jaguar, but is smaller and more lightly built.",
+    "Family": "Felidae",
+    "CollectiveNoun": "Leap",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/3_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/3_thumb.jpg"
+    }
+  },
+  {
+    "Id": 4,
+    "Title": "Squirrel",
+    "Description": "Squirrels are members of the family Sciuridae, consisting of small or medium-size rodents. Squirrels are indigenous to the Americas, Eurasia, and Africa, and have been introduced to Australia.",
+    "Family": "Sciuridae",
+    "CollectiveNoun": "Colony",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/4_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/4_thumb.jpg"
+    }
+  },
+  {
+    "Id": 5,
+    "Title": "Rooster",
+    "Description": "A rooster, also known as a cockerel or cock, is a male gallinaceous bird, usually a male chicken. The term rooster originates in the United States, and the term is widely used throughout North America, as well as Australia and New Zealand.",
+    "Family": "Phasianidae",
+    "CollectiveNoun": "Brood",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/5_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/5_thumb.jpg"
+    }
+  },
+  {
+    "Id": 6,
+    "Title": "Duck",
+    "Description": "Duck is the common name for a large number of species in the Anatidae family of birds which also includes swans and geese. Ducks are mostly aquatic birds, mostly smaller than the swans and geese, and may be found in both fresh water and sea water.",
+    "Family": "Anatidae",
+    "CollectiveNoun": "Flock",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/6_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/6_thumb.jpg"
+    }
+  },
+  {
+    "Id": 7,
+    "Title": "Rabbit",
+    "Description": "Rabbits are small mammals in the family Leporidae of the order Lagomorpha, found in several parts of the world. Rabbits live in groups, and the best known species, the European rabbit, lives in underground burrows, or rabbit holes.",
+    "Family": "Leporidae",
+    "CollectiveNoun": "Berry",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/7_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/7_thumb.jpg"
+    }
+  },
+  {
+    "Id": 8,
+    "Title": "Dog",
+    "Description": "The domestic dog is a domesticated canid which has been selectively bred for millennia for various behaviors, sensory capabilities, and physical attributes. Dogs perform many roles for people, such as hunting, herding, pulling loads, protection, assisting police and military, companionship, and, more recently, aiding handicapped individuals.",
+    "Family": "Pack",
+    "CollectiveNoun": "Canidae",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/8_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/8_thumb.jpg"
+    }
+  },
+  {
+    "Id": 9,
+    "Title": "Collared Peccary",
+    "Description": "The collared peccary (Pecari tajacu) is a species of mammal in the family Tayassuidae found in North, Central, and South America. Although somewhat related to the pigs and frequently referred to as one, this species and the other peccaries are no longer classified in the pig family.",
+    "Family": "Tayassuidae",
+    "CollectiveNoun": "Parcel",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/9_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/9_thumb.jpg"
+    }
+  },
+  {
+    "Id": 10,
+    "Title": "Bee",
+    "Description": "Bees are flying insects closely related to wasps and ants, known for their role in pollination and, in the case of the best-known bee species, the European honey bee, for producing honey and beeswax.",
+    "Family": "Apoidea",
+    "CollectiveNoun": "Swarm",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/10_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/10_thumb.jpg"
+    }
+  },
+  {
+    "Id": 11,
+    "Title": "Horse",
+    "Description": "The horse (Equus ferus caballus) is one of two extant subspecies of Equus ferus. Humans began to domesticate horses around 4000 BC, and their domestication is believed to have been widespread by 3000 BC.",
+    "Family": "Equidae",
+    "CollectiveNoun": "Team",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/11_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/11_thumb.jpg"
+    }
+  },
+  {
+    "Id": 12,
+    "Title": "European Robin",
+    "Description": "The European robin (Erithacus rubecula), most commonly known in Anglophone Europe simply as the robin, is a small insectivorous passerine bird, specifically a chat, that was formerly classed as a member of the thrush family (Turdidae), but is now considered to be an Old World flycatcher.",
+    "Family": "Muscicapidae",
+    "CollectiveNoun": "Flock",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/12_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/12_thumb.jpg"
+    }
+  },
+  {
+    "Id": 13,
+    "Title": "Lemur",
+    "Description": "Lemurs are a clade of strepsirrhine primates endemic to the island of Madagascar. The word lemur derives from the word lemures (ghosts or spirits) from Roman mythology and was first used to describe a slender loris due to its nocturnal habits and slow pace.",
+    "Family": "Lemuroidea",
+    "CollectiveNoun": "Conspiracy",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/13_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/13_thumb.jpg"
+    }
+  },
+  {
+    "Id": 14,
+    "Title": "Wild Boar",
+    "Description": "The wild boar (Sus scrofa), also known as the wild swine or Eurasian wild pig is a suid native to much of Eurasia, North Africa, and the Greater Sunda Islands. Human intervention has spread its range further, making the species one of the widest-ranging mammals in the world, as well as the most widely spread suiform.",
+    "Family": "Suidae",
+    "CollectiveNoun": "Sounder",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/14_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/14_thumb.jpg"
+    }
+  },
+  {
+    "Id": 15,
+    "Title": "Peacock",
+    "Description": "The term peacock is properly reserved for the male; the female is known as a peahen, and the immature offspring are sometimes called peachicks. The male has very long tail feathers with eye-like markings that can be erected and fanned out in display.",
+    "Family": "Phasianidae",
+    "CollectiveNoun": "Muster",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/15_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/15_thumb.jpg"
+    }
+  },
+  {
+    "Id": 16,
+    "Title": "Raccoon",
+    "Description": "The raccoon is a medium-sized mammal native to North America. Two of the raccoon's most distinctive features are its extremely dexterous front paws and its facial mask, which are themes in the mythology of several Native American ethnic groups.",
+    "Family": "Procyonidae",
+    "CollectiveNoun": "Gaze",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/16_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/16_thumb.jpg"
+    }
+  },
+  {
+    "Id": 17,
+    "Title": "Fox",
+    "Description": "Foxes are small-to-medium-sized, omnivorous mammals belonging to several genera of the Canidae family. Foxes are slightly smaller than a medium-size domestic dog, with a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail (or brush).",
+    "Family": "Canidae",
+    "CollectiveNoun": "Leash",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/17_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/17_thumb.jpg"
+    }
+  },
+  {
+    "Id": 18,
+    "Title": "Addax (White Antelope)",
+    "Description": "The addax is an antelope of the genus Addax, that lives in the Sahara desert. The addax mainly eats grasses and leaves of any available shrubs, leguminous herbs and bushes.",
+    "Family": "Bovidae",
+    "CollectiveNoun": "Herd",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/18_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/18_thumb.jpg"
+    }
+  },
+  {
+    "Id": 19,
+    "Title": "Kitten",
+    "Description": "A kitten (also known as a kitty or kitty cat) is a juvenile cat. After being born, kittens are totally dependent on their mother for survival and do not normally open their eyes until after seven to ten days.",
+    "Family": "Felidae",
+    "CollectiveNoun": "Kindle",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/19_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/19_thumb.jpg"
+    }
+  },
+  {
+    "Id": 20,
+    "Title": "Turtle",
+    "Description": "Turtles are reptiles of the order Testudines (or Chelonii) characterised by a special bony or cartilaginous shell developed from their ribs and acting as a shield.",
+    "Family": "Cheloniidae",
+    "CollectiveNoun": "Bale",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/animals/20_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/animals/20_thumb.jpg"
+    }
+  }
+]

@@ -1,0 +1,262 @@
+[
+  {
+    "Id": 1,
+    "Title": "Lemon",
+    "Description": "The lemon is a species of small evergreen tree native to Asia. The tree's ellipsoidal yellow fruit is used for culinary and non-culinary purposes throughout the world, primarily for its juice, which has both culinary and cleaning uses.",
+    "Family": "Rutaceae",
+    "Genus": "Citrus",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/1_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/1_thumb.jpg"
+    }
+  },
+  {
+    "Id": 2,
+    "Title": "Chili",
+    "Description": "The chili pepper is the fruit of plants from the genus Capsicum, members of the nightshade family, Solanaceae. The substances that give chili peppers their intensity when ingested or applied topically are capsaicin and several related chemicals, collectively called capsaicinoids.",
+    "Family": "Solanaceae",
+    "Genus": "Capsicum",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/2_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/2_thumb.jpg"
+    }
+  },
+  {
+    "Id": 3,
+    "Title": "Orange",
+    "Description": "The orange is the fruit of the citrus species Citrus × sinensis in the family Rutaceae. The fruit of the Citrus × sinensis is considered a sweet orange, whereas the fruit of the Citrus × aurantium is considered a bitter orange.",
+    "Family": "Rosaceae",
+    "Genus": "Fragaria",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/3_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/3_thumb.jpg"
+    }
+  },
+  {
+    "Id": 4,
+    "Title": "Strawberry",
+    "Description": "The garden strawberry is a widely grown hybrid species of the genus Fragaria. The fruit is widely appreciated for its characteristic aroma, bright red color, juicy texture, and sweetness.",
+    "Family": "",
+    "Genus": "",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/4_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/4_thumb.jpg"
+    }
+  },
+  {
+    "Id": 5,
+    "Title": "Raspberry",
+    "Description": "The raspberry is the edible fruit of a multitude of plant species in the genus Rubus of the rose family, most of which are in the subgenus Idaeobatus; the name also applies to these plants themselves. Raspberries are perennial with woody stems.",
+    "Family": "Rosaceae",
+    "Genus": "Rubus",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/5_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/5_thumb.jpg"
+    }
+  },
+  {
+    "Id": 6,
+    "Title": "Lime",
+    "Description": "A lime is a hybrid citrus fruit, which is typically round, lime green, 3–6 centimetres in diameter, and containing acidic juice vesicles. There are several species of citrus trees whose fruits are called limes, including the Key lime, Persian lime, kaffir lime, and desert lime.",
+    "Family": "Rutaceae",
+    "Genus": "Citrus",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/6_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/6_thumb.jpg"
+    }
+  },
+  {
+    "Id": 7,
+    "Title": "Capsicum",
+    "Description": "Capsicum is a genus of flowering plants in the nightshade family Solanaceae. In modern times, it is cultivated worldwide, and has become a key element in many cuisines. In addition to use as spices and food vegetables, Capsicum species have also found use in medicines.",
+    "Family": "Solanaceae",
+    "Genus": "Capsicum",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/7_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/7_thumb.jpg"
+    }
+  },
+  {
+    "Id": 8,
+    "Title": "Pumpkin",
+    "Description": "A pumpkin is a cultivar of a squash plant, most commonly of Cucurbita pepo, that is round, with smooth, slightly ribbed skin, and deep yellow to orange coloration. The thick shell contains the seeds and pulp.",
+    "Family": "Cucurbitaceae",
+    "Genus": "Cucurbita",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/8_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/8_thumb.jpg"
+    }
+  },
+  {
+    "Id": 9,
+    "Title": "Fig",
+    "Description": "Although commonly referred to as a fruit, the fig is actually the infructescence or scion of the tree, known as a false fruit or multiple fruit, in which the flowers and seeds are borne. It is a hollow-ended stem containing many flowers.",
+    "Family": "Moraceae",
+    "Genus": "Ficus",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/9_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/9_thumb.jpg"
+    }
+  },
+  {
+    "Id": 10,
+    "Title": "Pear",
+    "Description": "A pear is a sweet yellowish- or brownish-green edible fruit which is narrow at the stalk and wider towards the base. Several species of pear are valued for their edible fruit, while others are cultivated as ornamental trees.",
+    "Family": "Rosaceae",
+    "Genus": "Pyrus",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/10_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/10_thumb.jpg"
+    }
+  },
+  {
+    "Id": 11,
+    "Title": "Eggplant",
+    "Description": "Eggplant or aubergine is a species of nightshade grown for its edible fruit. The fruit is widely used in cooking. As a member of the genus Solanum, it is related to both the tomato and the potato.",
+    "Family": "Solanaceae",
+    "Genus": "Solanum",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/11_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/11_thumb.jpg"
+    }
+  },
+  {
+    "Id": 12,
+    "Title": "Asparagus",
+    "Description": "Asparagus or garden asparagus, scientific name Asparagus officinalis, is a spring vegetable, a flowering perennial plant species in the genus Asparagus. Asparagus officinalis is native to most of Europe, northern Africa and western Asia, and is widely cultivated as a vegetable crop.",
+    "Family": "Asparagaceae",
+    "Genus": "Asparagus",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/12_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/12_thumb.jpg"
+    }
+  },
+  {
+    "Id": 13,
+    "Title": "Corn",
+    "Description": "Corn is a large grain plant domesticated by indigenous peoples in Mesoamerica in prehistoric times. The leafy stalk produces ears which contain the grain, which are seeds called kernels. Maize kernels are often used in cooking as a starch.",
+    "Family": "Poaceae",
+    "Genus": "Zea",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/13_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/13_thumb.jpg"
+    }
+  },
+  {
+    "Id": 14,
+    "Title": "Banana",
+    "Description": "The banana is an edible fruit produced by several kinds of large herbaceous flowering plants in the genus Musa. The fruit is variable in size, color and firmness, but is usually elongated and curved, with soft flesh rich in starch covered with a rind which may be green, yellow, red, purple, or brown when ripe.",
+    "Family": "Musaceae",
+    "Genus": "Musa",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/14_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/14_thumb.jpg"
+    }
+  },
+  {
+    "Id": 15,
+    "Title": "Celery",
+    "Description": "Celery is a cultivated plant, variety in the family Apiaceae, commonly used as a vegetable. Depending on location, either its stalks, or its hypocotyl, are eaten and used in cooking. In North America the dominant variety most commonly available in trade is 'celery', whose stalks are eaten raw, or as an ingredient in salads, or as a flavoring in soups, stews, and pot roasts.",
+    "Family": "Apiaceae",
+    "Genus": "Apium",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/15_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/15_thumb.jpg"
+    }
+  },
+  {
+    "Id": 16,
+    "Title": "Sweet Potato",
+    "Description": "The sweet potato is a dicotyledonous plant that belongs to the family Convolvulaceae. Its large, starchy, sweet-tasting, tuberous roots are a root vegetable. The young leaves and shoots are sometimes eaten as greens.",
+    "Family": "Convolvulaceae",
+    "Genus": "Ipomoea",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/16_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/16_thumb.jpg"
+    }
+  },
+  {
+    "Id": 17,
+    "Title": "Radish",
+    "Description": "The radish is an edible root vegetable of the Brassicaceae family that was domesticated in Europe in pre-Roman times. Radishes are grown and consumed throughout the world, being mostly eaten raw as a crunchy salad vegetable.",
+    "Family": "Brassicaceae",
+    "Genus": "Raphanus",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/17_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/17_thumb.jpg"
+    }
+  },
+  {
+    "Id": 18,
+    "Title": "Gourd",
+    "Description": "A gourd is a plant of the family Cucurbitaceae, particularly Cucurbita and Lagenaria or the fruit of the two genera of Bignoniaceae, Crescentia and Amphitecna. The term refers to a number of species and subspecies, many with hard shells, and some without.",
+    "Family": "Cucurbitaceae",
+    "Genus": "Various",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/18_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/18_thumb.jpg"
+    }
+  },
+  {
+    "Id": 19,
+    "Title": "Blueberry",
+    "Description": "Blueberries are perennial flowering plants with indigo-colored berries from the section Cyanococcus within the genus Vaccinium (a genus that also includes cranberries, bilberries and grouseberries). Species in the section Cyanococcus are the most common fruits sold as blueberries and are native to North America.",
+    "Family": "Ericaceae",
+    "Genus": "Vaccinium",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/19_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/19_thumb.jpg"
+    }
+  },
+  {
+    "Id": 20,
+    "Title": "Blackberry",
+    "Description": "The blackberry is an edible fruit produced by many species in the Rubus genus in the Rosaceae family. What distinguishes the blackberry from its raspberry relatives is whether or not the torus (receptacle or stem) 'picks-with' (i.e. stays with) the fruit. When picking a blackberry fruit, the torus does stay with the fruit. With a raspberry, the torus remains on the plant, leaving a hollow core in the raspberry fruit.",
+    "Family": "Rosaceae",
+    "Genus": "Rubus",
+    "Width": 800,
+    "Height": 600,
+    "ImageURLs": {
+      "FullSize": "http://styleguide.effectivedigital.com/interview/images/fruitveg/20_full.jpg",
+      "Thumb": "http://styleguide.effectivedigital.com/interview/images/fruitveg/20_thumb.jpg"
+    }
+  }
+]
